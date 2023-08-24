@@ -2,12 +2,12 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
+    --background: url('https://cdn.discordapp.com/attachments/721901521498800190/1144129852719509504/image.png');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: cyan;
+    --primary2-colour: rgba(105,255,255,0.5);
+    --primary3-colour: rgba(105,255,255,0.6);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
