@@ -9,13 +9,13 @@
     --primary2-colour: rgba(105,255,255,0.5);
     --primary3-colour: rgba(105,255,255,0.6);
 
-    --secondary1-colour: rgba(0,0,0,0.5);
-    --secondary2-colour: rgba(0,0,0,0.5);
-    --secondary3-colour: rgba(0,0,0,0.5);
+    --secondary1-colour: rgba(0,0,0,1);
+    --secondary2-colour: rgba(0,0,0,1);
+    --secondary3-colour: rgba(0,0,0,1);
 
-    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,1));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,1));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,1));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,1));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,1));
 }
